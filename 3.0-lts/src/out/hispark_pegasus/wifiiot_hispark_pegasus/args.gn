@@ -1,0 +1,15 @@
+ohos_build_compiler_specified = "gcc"
+product_path = "D:\HuaweiMoveData\Users\20779\Desktop\huaweidzgy\3.0-lts\3.0-lts\src\vendor\hisilicon\hispark_pegasus"
+device_path = "D:\HuaweiMoveData\Users\20779\Desktop\huaweidzgy\3.0-lts\3.0-lts\src\device\hisilicon\hispark_pegasus\sdk_liteos"
+ohos_kernel_type = "liteos_m"
+disable_huks_binary = false
+disable_authenticate = false
+huks_use_lite_storage = true
+huks_use_hardware_root_key = true
+huks_config_file = "hks_config_lite.h"
+huks_mbedtls_path =
+    "//device/hisilicon/hispark_pegasus/sdk_liteos/third_party/mbedtls/include/"
+ohos_build_type = "debug"
+ohos_build_time = "1752127476571"
+ohos_build_datetime = "2025-07-10 22:04:36"
+ohos_full_compile = true
